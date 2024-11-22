@@ -1,0 +1,35 @@
+{"level":"info","message":"jguerreiro1 requested search for tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for it_pzkpfw_VI_ausf_e_tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for germ_pzkpfw_VI_ausf_b_tiger_IIh_sla at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for jp_pzkpfw_VI_ausf_e_tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for germ_pzkpfw_VI_ausf_h1_tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for jp_pzkpfw_VI_ausf_e_tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for uk_cruiser_tiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for sw_kungstiger at 16:13:12","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for germ_pzkpfw_VI_ausf_h1_tiger_animal_version at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested search for t34 at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for us_t34 at 16:13:12","service":"user-service"}
+{"level":"info","message":"jguerreiro1 requested info for us_t34 at 16:13:12","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for t34 at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for us_t34 at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for ussr at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for ussr_t_34_85_d_5t at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for hurricanemkii_ussr at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for ussr_su_122P at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for ussr_su_122P at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for m109 at 19:44:32","service":"user-service"}
+{"level":"error","message":"An error occurred: TypeError: Cannot read properties of undefined (reading 'length') at 19:44:32","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for m109 at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for us_m109a1 at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for fv at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for uk_fv4004_conway at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for uk_fv4005 at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for p-51 at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for p-51_mk1a_usaaf at 21:32:29","service":"user-service"}
+{"level":"error","message":"An error occurred: SyntaxError: Unexpected token ']', ...\"\"weapons\":], \"weapon\"... is not valid JSON at 21:32:29","service":"user-service"}
+{"level":"error","message":"An error occurred: SyntaxError: Unexpected token ']', ...\"\"weapons\":], \"weapon\"... is not valid JSON at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for p-51c-10_france at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for t-34 at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested search for ussr at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for ussr_su_100p at 21:32:29","service":"user-service"}
+{"level":"info","message":"cubinhs requested info for ussr_bmp_3 at 21:32:29","service":"user-service"}

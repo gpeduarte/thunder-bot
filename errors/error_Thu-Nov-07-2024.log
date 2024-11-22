@@ -1,0 +1,3 @@
+{"level":"error","message":"An error occurred: TypeError: Cannot read properties of undefined (reading 'length') at 19:44:32","service":"user-service"}
+{"level":"error","message":"An error occurred: SyntaxError: Unexpected token ']', ...\"\"weapons\":], \"weapon\"... is not valid JSON at 21:32:29","service":"user-service"}
+{"level":"error","message":"An error occurred: SyntaxError: Unexpected token ']', ...\"\"weapons\":], \"weapon\"... is not valid JSON at 21:32:29","service":"user-service"}
